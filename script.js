@@ -16,5 +16,5 @@ function calculateDiscount () {
 // Just to get rid of not used function error
 const FALSE = false
 if (FALSE) {
-calculateDiscount()
+  calculateDiscount()
 }
